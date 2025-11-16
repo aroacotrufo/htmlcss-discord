@@ -30,4 +30,15 @@ header{
     background-color: white;
     color: black;
 }
-
+.jumbo{
+    width:100%;
+  z-index: 1;
+    
+}
+.text-main{
+    z-index: 2;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
